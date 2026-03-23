@@ -77,9 +77,6 @@
 > I enjoy strategy MMORPG games and always think like designing a system when playing 😄
 
 ![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!---
 trkhang09/trkhang09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
