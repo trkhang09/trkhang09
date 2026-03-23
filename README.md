@@ -43,25 +43,18 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 E-commerce Backend API
+### 🔹 LanggomSport (E-commerce Backend API)
 
 * Build RESTful API for an online store
-* Tech: Node.js / .NET / MongoDB
-* Features: Authentication, Order, Payment
+* Tech: Springboot / Java / MySQL / Redis
+* Features: Order, add to cart, Products, Product-detail, Categories, Product-Search,...
 
 ---
 
-### 🔹 User Management System
+### 🔹 AI Chatbox (AI-integrated messaging system)
 
-* CRUD system with authentication & authorization
-* Tech: Java / Spring Boot / MySQL
-
----
-
-### 🔹 Microservice Demo
-
-* Basic microservices architecture
-* Includes API Gateway & service communication
+* An AI Chatbox API system capable of handling conversations and integrating with AI models such as OpenAI and Gemini.
+* Tech: Typescript / NestJS / PostgreSQL
 
 ---
 
